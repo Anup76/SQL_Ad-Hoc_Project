@@ -34,5 +34,5 @@ This project has significantly strengthened my expertise in SQL's pivotal role w
 
 ### Note :-
 - **Ad-Hoc Insights Presentation (PDF):** This file contains the presentation summarizing the key insights derived from the ad-hoc analysis.  
-- **Ad-Hoc Requests:** This file outlines all the business questions and requests addressed during the project.  
+- **Ad-Hoc Requests (PDF):** This file outlines all the business questions and requests addressed during the project.  
 - **Ad-Hoc Consumer Project:** This file includes all the SQL scripts used to answer the business questions and extract actionable insights.
